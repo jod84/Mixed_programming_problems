@@ -1,1 +1,2 @@
 # Mixed Programming Problems
+This repository contains various time limited programming problems that I encountered have so far. I haven't spent any time on time optimization, just correctness. Even so, for some problems the correctness is not 100%. The solutions will be written in `C`, `C++`, `C#`, and `Python`.

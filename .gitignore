@@ -1,0 +1,12 @@
+﻿*.csproj
+*.json
+*.exe
+*.dll
+*.pdb
+*.png
+*.props
+*.targets
+*.cache
+Message_Notification/obj/Debug
+Passing_Cars/obj/Debug
+Online_Game/obj/Debug
